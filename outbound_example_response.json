@@ -1,0 +1,620 @@
+{
+    "tabsInfo": {
+        "outboundInfo": [
+            {
+                "date": "2024-04-26",
+                "price": "NA",
+                "points": 0.0,
+                "pointsAfterDiscount": 0.0
+            },
+            {
+                "date": "2024-04-27",
+                "points": 54000.0,
+                "pointsAfterDiscount": 54000.0
+            },
+            {
+                "date": "2024-04-28",
+                "points": 54000.0,
+                "pointsAfterDiscount": 54000.0
+            }
+        ]
+    },
+    "offerId": "U1RBUkFSTkNQVDIwMjQwNDI3MDAwMDIxMDBTVEFSMTcwMzY4ODQzOTA0OV9P",
+    "productInfo": {
+        "ECONOMY": {
+            "1": "ECONOMY"
+        },
+        "BUSINESS": {
+            "1": "BUSINESS"
+        }
+    },
+    "outboundFlights": {
+        "F0": {
+            "id": 0,
+            "origin": {
+                "code": "ARN",
+                "name": "Arlanda"
+            },
+            "destination": {
+                "code": "CPT",
+                "name": "Cape Town Intl"
+            },
+            "originCity": {
+                "code": "STO",
+                "name": "Stockholm"
+            },
+            "destinationCity": {
+                "code": "CPT",
+                "name": "Cape Town"
+            },
+            "connectionDuration": "15:10:00",
+            "startTimeInLocal": "2024-04-27T21:50:00.000+02:00",
+            "startTimeInGmt": "2024-04-27T19:50:00.000Z",
+            "endTimeInLocal": "2024-04-28T13:00:00.000+02:00",
+            "endTimeInGmt": "2024-04-28T11:00:00.000Z",
+            "stops": 1,
+            "via": [
+                {
+                    "code": "ADD",
+                    "name": "Bole  ",
+                    "haltDuration": "01:10:00"
+                }
+            ],
+            "segments": [
+                {
+                    "id": 11,
+                    "arrivalTerminal": "2",
+                    "arrivalDateTimeInLocal": "2024-04-28T06:20:00.000+03:00",
+                    "arrivalDateTimeInGmt": "2024-04-28T03:20:00.000Z",
+                    "departureTerminal": "5",
+                    "departureDateTimeInLocal": "2024-04-27T21:50:00.000+02:00",
+                    "departureDateTimeInGmt": "2024-04-27T19:50:00.000Z",
+                    "departureAirport": {
+                        "code": "ARN",
+                        "name": "Arlanda"
+                    },
+                    "arrivalAirport": {
+                        "code": "ADD",
+                        "name": "Bole  "
+                    },
+                    "departureCity": {
+                        "code": "STO",
+                        "name": "Stockholm"
+                    },
+                    "arrivalCity": {
+                        "code": "ADD",
+                        "name": "Addis Ababa"
+                    },
+                    "airCraft": {
+                        "code": "789",
+                        "name": "Boeing 787-9"
+                    },
+                    "flightNumber": "715",
+                    "duration": "07:30:00",
+                    "marketingCarrier": {
+                        "code": "ET",
+                        "name": "Ethiopian Airlines"
+                    },
+                    "operatingCarrier": {
+                        "code": "ET",
+                        "name": "Ethiopian Airlines"
+                    },
+                    "onTimePerformance": 0.0,
+                    "miles": 0,
+                    "numberOfStops": 0
+                },
+                {
+                    "id": 12,
+                    "arrivalDateTimeInLocal": "2024-04-28T13:00:00.000+02:00",
+                    "arrivalDateTimeInGmt": "2024-04-28T11:00:00.000Z",
+                    "departureTerminal": "2",
+                    "departureDateTimeInLocal": "2024-04-28T07:30:00.000+03:00",
+                    "departureDateTimeInGmt": "2024-04-28T04:30:00.000Z",
+                    "departureAirport": {
+                        "code": "ADD",
+                        "name": "Bole  ",
+                        "haltDuration": "01:10:00"
+                    },
+                    "arrivalAirport": {
+                        "code": "CPT",
+                        "name": "Cape Town Intl"
+                    },
+                    "departureCity": {
+                        "code": "ADD",
+                        "name": "Addis Ababa"
+                    },
+                    "arrivalCity": {
+                        "code": "CPT",
+                        "name": "Cape Town"
+                    },
+                    "airCraft": {
+                        "code": "787"
+                    },
+                    "flightNumber": "845",
+                    "duration": "06:30:00",
+                    "marketingCarrier": {
+                        "code": "ET",
+                        "name": "Ethiopian Airlines"
+                    },
+                    "operatingCarrier": {
+                        "code": "ET",
+                        "name": "Ethiopian Airlines"
+                    },
+                    "onTimePerformance": 0.0,
+                    "miles": 0,
+                    "numberOfStops": 0
+                }
+            ],
+            "cabins": {
+                "BUSINESS": {
+                    "BUSINESS": {
+                        "products": {
+                            "O_2": {
+                                "productName": "BUSINESS",
+                                "productCode": "BUSINESS",
+                                "lowestFare": true,
+                                "recommendations": [
+                                    2
+                                ],
+                                "price": {
+                                    "currency": "SEK",
+                                    "basePrice": 0.0,
+                                    "totalTax": 0.0,
+                                    "totalPrice": 0.0,
+                                    "points": 297000,
+                                    "credits": 0,
+                                    "pointsAfterDiscount": 297000,
+                                    "discountedPoints": 0,
+                                    "pricePerPassengerType": [
+                                        {
+                                            "id": 1,
+                                            "type": "ADT",
+                                            "numberCount": 2,
+                                            "price": {
+                                                "currency": "SEK",
+                                                "basePrice": 0.0,
+                                                "totalTax": 0.0,
+                                                "totalPrice": 0.0,
+                                                "points": 99000,
+                                                "credits": 0,
+                                                "pointsAfterDiscount": 99000,
+                                                "discountedPoints": 0
+                                            }
+                                        },
+                                        {
+                                            "id": 2,
+                                            "type": "CHD",
+                                            "numberCount": 1,
+                                            "price": {
+                                                "currency": "SEK",
+                                                "basePrice": 0.0,
+                                                "totalTax": 0.0,
+                                                "totalPrice": 0.0,
+                                                "points": 99000,
+                                                "credits": 0,
+                                                "pointsAfterDiscount": 99000,
+                                                "discountedPoints": 0
+                                            }
+                                        }
+                                    ]
+                                },
+                                "fares": [
+                                    {
+                                        "segmentId": "11",
+                                        "bookingClass": "I",
+                                        "avlSeats": 9,
+                                        "cabinName": "BUSINESS"
+                                    },
+                                    {
+                                        "segmentId": "12",
+                                        "bookingClass": "I",
+                                        "avlSeats": 9,
+                                        "cabinName": "BUSINESS"
+                                    }
+                                ],
+                                "fareKey": "II",
+                                "sasRecommended": false
+                            }
+                        }
+                    }
+                },
+                "ECONOMY": {
+                    "ECONOMY": {
+                        "products": {
+                            "O_1": {
+                                "productName": "ECONOMY",
+                                "productCode": "ECONOMY",
+                                "lowestFare": true,
+                                "recommendations": [
+                                    1
+                                ],
+                                "price": {
+                                    "currency": "SEK",
+                                    "basePrice": 0.0,
+                                    "totalTax": 0.0,
+                                    "totalPrice": 0.0,
+                                    "points": 162000,
+                                    "credits": 0,
+                                    "pointsAfterDiscount": 162000,
+                                    "discountedPoints": 0,
+                                    "pricePerPassengerType": [
+                                        {
+                                            "id": 1,
+                                            "type": "ADT",
+                                            "numberCount": 2,
+                                            "price": {
+                                                "currency": "SEK",
+                                                "basePrice": 0.0,
+                                                "totalTax": 0.0,
+                                                "totalPrice": 0.0,
+                                                "points": 54000,
+                                                "credits": 0,
+                                                "pointsAfterDiscount": 54000,
+                                                "discountedPoints": 0
+                                            }
+                                        },
+                                        {
+                                            "id": 2,
+                                            "type": "CHD",
+                                            "numberCount": 1,
+                                            "price": {
+                                                "currency": "SEK",
+                                                "basePrice": 0.0,
+                                                "totalTax": 0.0,
+                                                "totalPrice": 0.0,
+                                                "points": 54000,
+                                                "credits": 0,
+                                                "pointsAfterDiscount": 54000,
+                                                "discountedPoints": 0
+                                            }
+                                        }
+                                    ]
+                                },
+                                "fares": [
+                                    {
+                                        "segmentId": "11",
+                                        "bookingClass": "X",
+                                        "avlSeats": 9,
+                                        "cabinName": "ECONOMY"
+                                    },
+                                    {
+                                        "segmentId": "12",
+                                        "bookingClass": "X",
+                                        "avlSeats": 9,
+                                        "cabinName": "ECONOMY"
+                                    }
+                                ],
+                                "fareKey": "XX",
+                                "sasRecommended": false
+                            }
+                        }
+                    }
+                }
+            },
+            "lowestFares": {
+                "BUSINESS": {
+                    "product": "BUSINESS",
+                    "productId": "O_2",
+                    "avlSeats": 9,
+                    "points": 99000.0,
+                    "discountedPoints": 0.0,
+                    "pointsAfterDiscount": 99000.0,
+                    "isStandardAward": true
+                },
+                "ECONOMY": {
+                    "product": "ECONOMY",
+                    "productId": "O_1",
+                    "avlSeats": 9,
+                    "points": 54000.0,
+                    "discountedPoints": 0.0,
+                    "pointsAfterDiscount": 54000.0,
+                    "isStandardAward": true
+                }
+            }
+        },
+        "F1": {
+            "id": 1,
+            "origin": {
+                "code": "ARN",
+                "name": "Arlanda"
+            },
+            "destination": {
+                "code": "CPT",
+                "name": "Cape Town Intl"
+            },
+            "originCity": {
+                "code": "STO",
+                "name": "Stockholm"
+            },
+            "destinationCity": {
+                "code": "CPT",
+                "name": "Cape Town"
+            },
+            "connectionDuration": "16:40:00",
+            "startTimeInLocal": "2024-04-27T21:50:00.000+02:00",
+            "startTimeInGmt": "2024-04-27T19:50:00.000Z",
+            "endTimeInLocal": "2024-04-28T14:30:00.000+02:00",
+            "endTimeInGmt": "2024-04-28T12:30:00.000Z",
+            "stops": 1,
+            "via": [
+                {
+                    "code": "ADD",
+                    "name": "Bole  ",
+                    "haltDuration": "02:40:00"
+                }
+            ],
+            "segments": [
+                {
+                    "id": 11,
+                    "arrivalTerminal": "2",
+                    "arrivalDateTimeInLocal": "2024-04-28T06:20:00.000+03:00",
+                    "arrivalDateTimeInGmt": "2024-04-28T03:20:00.000Z",
+                    "departureTerminal": "5",
+                    "departureDateTimeInLocal": "2024-04-27T21:50:00.000+02:00",
+                    "departureDateTimeInGmt": "2024-04-27T19:50:00.000Z",
+                    "departureAirport": {
+                        "code": "ARN",
+                        "name": "Arlanda"
+                    },
+                    "arrivalAirport": {
+                        "code": "ADD",
+                        "name": "Bole  "
+                    },
+                    "departureCity": {
+                        "code": "STO",
+                        "name": "Stockholm"
+                    },
+                    "arrivalCity": {
+                        "code": "ADD",
+                        "name": "Addis Ababa"
+                    },
+                    "airCraft": {
+                        "code": "789",
+                        "name": "Boeing 787-9"
+                    },
+                    "flightNumber": "715",
+                    "duration": "07:30:00",
+                    "marketingCarrier": {
+                        "code": "ET",
+                        "name": "Ethiopian Airlines"
+                    },
+                    "operatingCarrier": {
+                        "code": "ET",
+                        "name": "Ethiopian Airlines"
+                    },
+                    "onTimePerformance": 0.0,
+                    "miles": 0,
+                    "numberOfStops": 0
+                },
+                {
+                    "id": 12,
+                    "arrivalDateTimeInLocal": "2024-04-28T14:30:00.000+02:00",
+                    "arrivalDateTimeInGmt": "2024-04-28T12:30:00.000Z",
+                    "departureTerminal": "2",
+                    "departureDateTimeInLocal": "2024-04-28T09:00:00.000+03:00",
+                    "departureDateTimeInGmt": "2024-04-28T06:00:00.000Z",
+                    "departureAirport": {
+                        "code": "ADD",
+                        "name": "Bole  ",
+                        "haltDuration": "02:40:00"
+                    },
+                    "arrivalAirport": {
+                        "code": "CPT",
+                        "name": "Cape Town Intl"
+                    },
+                    "departureCity": {
+                        "code": "ADD",
+                        "name": "Addis Ababa"
+                    },
+                    "arrivalCity": {
+                        "code": "CPT",
+                        "name": "Cape Town"
+                    },
+                    "airCraft": {
+                        "code": "787"
+                    },
+                    "flightNumber": "847",
+                    "duration": "06:30:00",
+                    "marketingCarrier": {
+                        "code": "ET",
+                        "name": "Ethiopian Airlines"
+                    },
+                    "operatingCarrier": {
+                        "code": "ET",
+                        "name": "Ethiopian Airlines"
+                    },
+                    "onTimePerformance": 0.0,
+                    "miles": 0,
+                    "numberOfStops": 0
+                }
+            ],
+            "cabins": {
+                "BUSINESS": {
+                    "BUSINESS": {
+                        "products": {
+                            "O_4": {
+                                "productName": "BUSINESS",
+                                "productCode": "BUSINESS",
+                                "lowestFare": true,
+                                "recommendations": [
+                                    4
+                                ],
+                                "price": {
+                                    "currency": "SEK",
+                                    "basePrice": 0.0,
+                                    "totalTax": 0.0,
+                                    "totalPrice": 0.0,
+                                    "points": 297000,
+                                    "credits": 0,
+                                    "pointsAfterDiscount": 297000,
+                                    "discountedPoints": 0,
+                                    "pricePerPassengerType": [
+                                        {
+                                            "id": 1,
+                                            "type": "ADT",
+                                            "numberCount": 2,
+                                            "price": {
+                                                "currency": "SEK",
+                                                "basePrice": 0.0,
+                                                "totalTax": 0.0,
+                                                "totalPrice": 0.0,
+                                                "points": 99000,
+                                                "credits": 0,
+                                                "pointsAfterDiscount": 99000,
+                                                "discountedPoints": 0
+                                            }
+                                        },
+                                        {
+                                            "id": 2,
+                                            "type": "CHD",
+                                            "numberCount": 1,
+                                            "price": {
+                                                "currency": "SEK",
+                                                "basePrice": 0.0,
+                                                "totalTax": 0.0,
+                                                "totalPrice": 0.0,
+                                                "points": 99000,
+                                                "credits": 0,
+                                                "pointsAfterDiscount": 99000,
+                                                "discountedPoints": 0
+                                            }
+                                        }
+                                    ]
+                                },
+                                "fares": [
+                                    {
+                                        "segmentId": "11",
+                                        "bookingClass": "I",
+                                        "avlSeats": 9,
+                                        "cabinName": "BUSINESS"
+                                    },
+                                    {
+                                        "segmentId": "12",
+                                        "bookingClass": "I",
+                                        "avlSeats": 9,
+                                        "cabinName": "BUSINESS"
+                                    }
+                                ],
+                                "fareKey": "II",
+                                "sasRecommended": false
+                            }
+                        }
+                    }
+                },
+                "ECONOMY": {
+                    "ECONOMY": {
+                        "products": {
+                            "O_3": {
+                                "productName": "ECONOMY",
+                                "productCode": "ECONOMY",
+                                "lowestFare": true,
+                                "recommendations": [
+                                    3
+                                ],
+                                "price": {
+                                    "currency": "SEK",
+                                    "basePrice": 0.0,
+                                    "totalTax": 0.0,
+                                    "totalPrice": 0.0,
+                                    "points": 162000,
+                                    "credits": 0,
+                                    "pointsAfterDiscount": 162000,
+                                    "discountedPoints": 0,
+                                    "pricePerPassengerType": [
+                                        {
+                                            "id": 1,
+                                            "type": "ADT",
+                                            "numberCount": 2,
+                                            "price": {
+                                                "currency": "SEK",
+                                                "basePrice": 0.0,
+                                                "totalTax": 0.0,
+                                                "totalPrice": 0.0,
+                                                "points": 54000,
+                                                "credits": 0,
+                                                "pointsAfterDiscount": 54000,
+                                                "discountedPoints": 0
+                                            }
+                                        },
+                                        {
+                                            "id": 2,
+                                            "type": "CHD",
+                                            "numberCount": 1,
+                                            "price": {
+                                                "currency": "SEK",
+                                                "basePrice": 0.0,
+                                                "totalTax": 0.0,
+                                                "totalPrice": 0.0,
+                                                "points": 54000,
+                                                "credits": 0,
+                                                "pointsAfterDiscount": 54000,
+                                                "discountedPoints": 0
+                                            }
+                                        }
+                                    ]
+                                },
+                                "fares": [
+                                    {
+                                        "segmentId": "11",
+                                        "bookingClass": "X",
+                                        "avlSeats": 9,
+                                        "cabinName": "ECONOMY"
+                                    },
+                                    {
+                                        "segmentId": "12",
+                                        "bookingClass": "X",
+                                        "avlSeats": 9,
+                                        "cabinName": "ECONOMY"
+                                    }
+                                ],
+                                "fareKey": "XX",
+                                "sasRecommended": false
+                            }
+                        }
+                    }
+                }
+            },
+            "lowestFares": {
+                "BUSINESS": {
+                    "product": "BUSINESS",
+                    "productId": "O_4",
+                    "avlSeats": 9,
+                    "points": 99000.0,
+                    "discountedPoints": 0.0,
+                    "pointsAfterDiscount": 99000.0,
+                    "isStandardAward": true
+                },
+                "ECONOMY": {
+                    "product": "ECONOMY",
+                    "productId": "O_3",
+                    "avlSeats": 9,
+                    "points": 54000.0,
+                    "discountedPoints": 0.0,
+                    "pointsAfterDiscount": 54000.0,
+                    "isStandardAward": true
+                }
+            }
+        }
+    },
+    "isOutboundIntercontinental": true,
+    "bookingFlow": "STAR",
+    "type": {
+        "code": "STAR",
+        "name": "STAR"
+    },
+    "tripType": "O",
+    "links": [
+        {
+            "rel": "GetEBMSPoints",
+            "href": "/offers/flightproducts/getAccrualPoints"
+        },
+        {
+            "rel": "FareReview",
+            "href": "/offers/flightproducts/getFare"
+        },
+        {
+            "rel": "InitiateCheckout",
+            "href": "/checkout/initiate"
+        }
+    ]
+}
